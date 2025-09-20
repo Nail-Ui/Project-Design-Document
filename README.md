@@ -8,6 +8,9 @@ Project Concept
 
 You control a [Mouse] in this [Static Camera View] game where [Mouse] makes the player [Hold and drag the trash falling from buildings and sort them out].
 
+Update: Mouse movement has been implemented, Trash gameObject sucessfully collides with recyclebins and physics reacts accordingly, also mouse last velocity saved and applied to the trash gameObject order to achieve realistic throw effect.
+minor game environment adjustments and UI also implemented now User can score points by sorthing trashes to recycle bins. 
+
 2. Basic Gameplay
 
 During the game, [Trash related objects] appear from [top side of the screen] and the goal of the game is to [sort these trash objects to the recycling bins].
