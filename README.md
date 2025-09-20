@@ -1,7 +1,7 @@
 Project Design Document: Trash Recycling
 
-    Created at: mm/dd/yyyy
-    Author: Name
+    Created at: 18/09/2025
+    Author: N. Batuhan
 
 Project Concept
 1. Player Control Mouse
@@ -10,6 +10,7 @@ You control a [Mouse] in this [Static Camera View] game where [Mouse] makes the 
 
 Update: Mouse movement has been implemented, Trash gameObject sucessfully collides with recyclebins and physics reacts accordingly, also mouse last velocity saved and applied to the trash gameObject order to achieve realistic throw effect.
 minor game environment adjustments and UI also implemented now User can score points by sorthing trashes to recycle bins. 
+Public enum TrashType has been enstablished and used on trash gameObjects + recycle bins gameObjects
 
 2. Basic Gameplay
 
